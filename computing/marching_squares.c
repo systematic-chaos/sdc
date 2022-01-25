@@ -93,7 +93,7 @@ PolylineLinkedList marchingSquares(Curve curv) {
                 polylineBuffer[numLineVertices++] = l -> from;
             }
             
-            /* Se almacena el vértice de destino del segmento en la polilínea actual */
+            /* The section's destination vertex is added to the current polyline */
             previousVertex = l -> to;
             polylineBuffer[numLineVertices++] = previousVertex;
         }

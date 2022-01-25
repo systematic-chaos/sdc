@@ -1,3 +1,3 @@
-# SDC
+# SDCV
 
-scientific data computation
+### Scientific Data Computation and Visualization
